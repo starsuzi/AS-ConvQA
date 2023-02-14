@@ -12,7 +12,9 @@ Conversational Question Answering (ConvQA) models aim at answering a question wi
 
 ## Installation
 
-We use a single GeForce RTX 3090 GPU having 24GB memory to train and evaluate AS-ConvQA models.
+We use a single GeForce RTX 3090 GPU having 24GB memory to train and evaluate AS-ConvQA models. We refer to the following two repositories:
+* https://github.com/dmis-lab/excord 
+* https://github.com/mlaves/bayesian-temperature-scaling
 
 ```bash
 $ conda create -n asconvqa python=3.8
