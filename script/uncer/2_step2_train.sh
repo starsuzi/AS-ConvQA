@@ -8,8 +8,8 @@ MC=mc_drop_true
 TS=temp_scale_true
 DATE=$(date +%Y_%m_%d)/$(date +%H_%M_%S)
 
-STEP1_T=1.35
-STEP2_T=1.35
+STEP1_T=1.4
+STEP2_T=1.4
 
 ###############STEP2 Train###################
 MODEL=step1/${SEED}/bsz12_epoch1_seed${SEED}/max_history/${MAX_HISTORY}
