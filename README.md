@@ -80,5 +80,6 @@ If you found the provided code with our paper useful, we kindly request that you
     author={Jeong, Soyeong and Baek, Jinheon and Hwang, Sung Ju and Park, Jong C.},
     booktitle={European Chapter of the ACL (EACL)},
     year={2023},
+    url = {https://doi.org/10.48550/arXiv.2302.05137}
 }
 ```
